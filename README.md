@@ -11,6 +11,6 @@
 
 ## 💻 Github stats
 
-![Deni's github stats](https://github-readme-stats.vercel.app/api?username=azureswastika&show_icons=true)
+![Deni's github stats](https://github-readme-stats.vercel.app/api?username=azureswastika&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azureswastika)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azureswastika&theme=dark)
