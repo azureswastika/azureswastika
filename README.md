@@ -1,11 +1,3 @@
-# Hey 👋, I'm Deni
-
-[![Deni's github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/azureswastika)
-
-## ⚡ About me
-
-I'm 18 y.o web developer from Russia. Mostly code Python, always learning something new.
-
 ## 📚 My skill set
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
