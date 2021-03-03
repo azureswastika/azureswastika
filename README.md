@@ -9,8 +9,8 @@
 ![Css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💻 Github stats
-
-![Deni's github stats](https://github-readme-stats.vercel.app/api?username=azureswastika&show_icons=true&theme=dark)
+## 💻 Github stats ![Codewars](https://www.codewars.com/users/azureswastika/badges/small)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azureswastika&theme=dark)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=azureswastika&show_icons=true&theme=dark)
